@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f4a86f25c1a70a04fb12fd7ead16b0ce
+timeCreated: 1521601129
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cafe Nero M54
+  fontNames:
+  - Cafe Nero M54
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
